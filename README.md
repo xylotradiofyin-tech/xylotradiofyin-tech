@@ -5,10 +5,11 @@ I'm a Frontend Developer who builds fast, responsive, and visually polished user
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Languages:** HTML5, CSS3, JavaScript (ES6+),TypeScript, Python
 - **Frameworks & Libraries:** React, Next.js
 - **Styling:** Tailwind CSS, Sass
-- **Build & Tools:** Vercel, Git, REST APIs
+- **Build & Tools:** AWS, Vercel, or Docker containers
+- **Create APIs with Node.js and Python (FastAPI / Django)  
 
 ---
 
@@ -43,3 +44,4 @@ If you're looking for a frontend developer who takes UI quality seriously and wo
 
 **Email:** *xylo.tradiofy.in@gmail.com*  
 **GitHub:** github.com/xylotradiofyin-tech
+**Portfolio:** [radu.dev](https://radu.dev) 
