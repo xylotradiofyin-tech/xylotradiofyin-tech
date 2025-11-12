@@ -43,5 +43,5 @@ My approach is grounded in:
 If you're looking for a frontend developer who takes UI quality seriously and works thoughtfully with modern tooling — I'm open to new opportunities.
 
 **Email:** *xylo.tradiofy.in@gmail.com*  
-**GitHub:** github.com/xylotradiofyin-tech
+**GitHub:** github.com/xylotradiofyin-tech*
 **Portfolio:** [radu.dev](https://radu.dev) 
