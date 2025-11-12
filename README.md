@@ -44,4 +44,4 @@ If you're looking for a frontend developer who takes UI quality seriously and wo
 
 **Email:** *xylo.tradiofy.in@gmail.com*  
 **GitHub:** github.com/xylotradiofyin-tech*
-**Portfolio:** [radu.dev](https://radu.dev) 
+**Portfolio:** [Daniel Lis.dev](https://radu.dev)
