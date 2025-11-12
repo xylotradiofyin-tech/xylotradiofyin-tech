@@ -9,7 +9,7 @@ I'm a Frontend Developer who builds fast, responsive, and visually polished user
 - **Frameworks & Libraries:** React, Next.js
 - **Styling:** Tailwind CSS, Sass
 - **Build & Tools:** AWS, Vercel, or Docker containers
-- **Create APIs with Node.js and Python (FastAPI / Django)  
+- Create APIs with Node.js and Python (FastAPI / Django)  
 
 ---
 
