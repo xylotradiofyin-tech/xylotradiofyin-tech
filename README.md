@@ -1,40 +1,45 @@
-## Hi there 👋 💻 Senior Full-Stack Web Developer && Python experter
+# 👋 Hi, I'm **Daniel Lis**
 
-<br>
-<br>
-<div align="center">
-    <p style="color:blue;">
-     As a senior developer in full-stack, mobile, and blockchain, I have hands-on experience delivering scalable, secure, and high-performance solutions. With expertise across web, mobile, and decentralized applications, I can build end-to-end systems that seamlessly integrate the latest technologies.</br>
-    ✈Always open to challenging projects that push the limits of technology. ✨ <i>Radu Camelia</i>✨</br>
-       <i aligin="center"> 😎Contact ME: ❤️Gmail 🌠: rcamelia301@gmail.com ❤️Telegram 🌠: @DreadmireVortex </i>
-    </p>
-</div>
+I'm a Frontend Developer who builds fast, responsive, and visually polished user interfaces using **React (Next.js)** and modern CSS tooling. I focus on clean component architecture, smooth user experience, and maintainable styles that scale.
 
-<br>
-<div align="center">
-    <a href="https://github.com/radu985">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=radu985&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
-    </a>
-</div>
+---
 
-<div align="center">
+### 🧰 Tech Stack
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Libraries:** React, Next.js
+- **Styling:** Tailwind CSS, Sass
+- **Build & Tools:** Vercel, Git, REST APIs
 
-</div>
+---
 
-## 🛠️ Languages & Tools
+### 🚀 Selected Projects
 
-<div align="center">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/React-100000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-00DC8E?style=for-the-badge&logo=solana&logoColor=white" />
-<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
-<img src="https://img.shields.io/badge/Sui-000000?style=for-the-badge&logo=sui&logoColor=white" />
-<img src="https://img.shields.io/badge/NFT-FF007A?style=for-the-badge&logo=nft&logoColor=white" />
-<img src="https://img.shields.io/badge/WebGL-F9A825?style=for-the-badge&logo=webgl&logoColor=white" />
-</div>
+| Project | Description | Stack | Live |
+|--------|-------------|-------|------|
+| **Infinity Bot** | Web interface for a tool that manages and enhances Discord server experiences. Focused on clarity, structure, and UI scalability. | Next.js, Tailwind CSS | https://infinitybot.io/ |
+| **TradeX Interface** | A trading dashboard UI designed for clarity and responsiveness. Emphasizes layout hierarchy and component reusability. | Next.js, Tailwind CSS | https://trade-x-frontend-one.vercel.app/ |
+| **Snaka Game** | A modern take on the classic Snake game with smooth animations and keyboard interaction. Demonstrates state handling & UI flow. | React, CSS | https://snaka-game-frontend.vercel.app |
+
+---
+
+### 🎨 How I Approach Frontend Development
+
+I build UIs that feel smooth, intuitive, and structured.  
+My approach is grounded in:
+
+- Component-driven design and clarity of layout
+- Accessible and responsive interfaces across devices
+- Modern CSS systems like **Tailwind** for consistency and speed
+- Performance-focused architectures with **Next.js**
+
+> I see UI as a balance between logic and aesthetics — the best experiences are simple, clear, and effortless to use.
+
+---
+
+### 🌍 Availability
+**UTC +1 • Remote • Full-time**
+
+If you're looking for a frontend developer who takes UI quality seriously and works thoughtfully with modern tooling — I'm open to new opportunities.
+
+**Email:** *xylo.tradiofy.in@gmail.com*  
+**GitHub:** github.com/xylotradiofyin-tech
