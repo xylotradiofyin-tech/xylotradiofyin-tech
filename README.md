@@ -55,12 +55,3 @@ I'm a Frontend Developer who builds fast, responsive, and visually polished user
 
 ---
 
-### 🎨 How I Approach Frontend Development
-
-I build UIs that feel smooth, intuitive, and structured.  
-My approach is grounded in:
-
-- Component-driven design and clarity of layout
-- Accessible and responsive interfaces across devices
-- Modern CSS systems like **Tailwind** for consistency and speed
-- Performance-focused architectures with **Next.js**
