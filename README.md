@@ -1,8 +1,11 @@
 <h2 align="center">
-  Hi, I'm **Daniel Lis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+  Hi, I'm Daniel Lis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
 </h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend,%20Wordpress%20Developer;5+%2B%20years%20of%20engineering;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=said7388&color=brightgreen" alt="Profile Views">
 </p>
 I'm a Frontend Developer who builds fast, responsive, and visually polished user interfaces using **React (Next.js)** and modern CSS tooling. I focus on clean component architecture, smooth user experience, and maintainable styles that scale.
 
