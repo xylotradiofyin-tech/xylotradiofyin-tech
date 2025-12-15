@@ -38,13 +38,3 @@ I'm a Frontend Developer who builds fast, responsive, and visually polished user
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 ---
 
-### 🚀 Selected Projects
-
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| **Infinity Bot** | Web interface for a tool that manages and enhances Discord server experiences. Focused on clarity, structure, and UI scalability. | Next.js, Tailwind CSS | https://infinitybot.io/ |
-| **TradeX Interface** | A trading dashboard UI designed for clarity and responsiveness. Emphasizes layout hierarchy and component reusability. | Next.js, Tailwind CSS | https://trade-x-frontend-one.vercel.app/ |
-| **Snaka Game** | A modern take on the classic Snake game with smooth animations and keyboard interaction. Demonstrates state handling & UI flow. | React, CSS | https://snaka-game-frontend.vercel.app |
-
----
-
